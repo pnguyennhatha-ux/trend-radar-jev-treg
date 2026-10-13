@@ -1,0 +1,23 @@
+{
+  "name": "trend-radar-mod",
+  "owner": {
+    "name": "Calvin Hia",
+    "url": "https://www.youtube.com/@calvinhia_ai"
+  },
+  "metadata": {
+    "description": "Trend Radar: what to make next on YouTube, with proof, plus the thumbnail.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "trend-radar",
+      "description": "/trend: ranked video ideas from competitor outliers, X launches and search demand through treg, and thumbnails with you in them.",
+      "source": "./mod",
+      "version": "1.0.0",
+      "author": {
+        "name": "Calvin Hia",
+        "url": "https://www.youtube.com/@calvinhia_ai"
+      }
+    }
+  ]
+}

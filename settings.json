@@ -1,0 +1,15 @@
+{
+  "trendRadar": 1,
+  "_about": "Trend Radar settings. Fill this by typing /trend setup, or by hand. Keep \"trendRadar\": 1.",
+  "channel": "",
+  "audience": "",
+  "pillars": [],
+  "competitors": [],
+  "xKeywords": [],
+  "sponsorTypes": [],
+  "notes": [],
+  "ideasCount": 5,
+  "daysBack": 60,
+  "thumbQuality": "medium",
+  "thumbStyle": ""
+}

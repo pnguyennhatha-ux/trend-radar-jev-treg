@@ -1,0 +1,53 @@
+{
+  "trendRadarPreset": 1,
+  "name": "AI creator (example: pillars, competitors, keywords)",
+  "channel": "",
+  "audience": "solopreneurs, marketers and content creators",
+  "pillars": [
+    "Make content: Shorts, AI video editing, thumbnails, AI clone, UGC",
+    "Build & get found: websites, landing pages, apps, SEO",
+    "Make money: leads, DMs, funnels, selling what you built"
+  ],
+  "competitors": [
+    "@nateherk",
+    "@Itssssss_Jack",
+    "@AILABS-393",
+    "@RoboNuggets",
+    "@jasoncooperson",
+    "@Chase-H-AI",
+    "@AlexFinnOfficial",
+    "@brendanautomation",
+    "@RileyBrownAI",
+    "@Sanji_Chien",
+    "@SimonScrapes",
+    "@brockmesarich",
+    "@LiamOttley",
+    "@EricWTech"
+  ],
+  "xKeywords": [
+    "Claude",
+    "ChatGPT",
+    "OpenAI",
+    "Gemini",
+    "Grok",
+    "Seedance",
+    "Veo",
+    "Kling",
+    "Higgsfield",
+    "Codex",
+    "Anthropic",
+    "AI Video Editing"
+  ],
+  "sponsorTypes": [
+    "AI website builders",
+    "SEO tools",
+    "lead gen",
+    "marketing tools",
+    "AI video & voice tools"
+  ],
+  "notes": [],
+  "ideasCount": 5,
+  "daysBack": 60,
+  "thumbQuality": "medium",
+  "thumbStyle": ""
+}

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="537.5999999999999" height="96" viewBox="0 0 537.5999999999999 96">
+<defs><linearGradient id="sw" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FC6467" stop-opacity="0.85"/><stop offset="1" stop-color="#FC6467" stop-opacity="0"/></linearGradient></defs>
+<circle cx="48.0" cy="48.0" r="47.0" fill="none" stroke="#FC6467" stroke-opacity="0.35" stroke-width="5.76"/>
+<circle cx="48.0" cy="48.0" r="25.85" fill="none" stroke="#FC6467" stroke-opacity="0.35" stroke-width="5.76"/>
+<g>
+<path d="M 48.0 48.0 L 48.0 1.0 A 47.0 47.0 0 0 1 88.702 24.5 Z" fill="url(#sw)"/>
+<line x1="48.0" y1="48.0" x2="48.0" y2="1.0" stroke="#FC6467" stroke-width="7.68" stroke-linecap="round"/>
+<animateTransform attributeName="transform" type="rotate" from="0 48.0 48.0" to="360 48.0 48.0" dur="4s" repeatCount="indefinite"/>
+</g>
+<circle cx="77.14" cy="33.9" r="10.56" fill="#FC6467">
+<animate attributeName="opacity" values="1;1;0.25;0.25;1" keyTimes="0;0.12;0.3;0.9;1" dur="4s" repeatCount="indefinite"/>
+<animate attributeName="r" values="10.56;14.399999999999999;10.56" keyTimes="0;0.06;0.14" dur="4s" repeatCount="indefinite"/>
+</circle>
+<circle cx="48.0" cy="48.0" r="6.720000000000001" fill="#FC6467"/>
+<text x="134.4" y="74.88" font-family="-apple-system, Helvetica, Arial, sans-serif" font-size="74.88" font-weight="700" letter-spacing="-0.5" fill="#18181B">Trend Radar</text></svg>

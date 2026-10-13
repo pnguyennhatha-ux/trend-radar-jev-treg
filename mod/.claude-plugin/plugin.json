@@ -1,0 +1,21 @@
+{
+  "name": "trend-radar",
+  "version": "1.0.0",
+  "description": "/trend: ranked video ideas from competitor outliers, X launches and search demand, via treg",
+  "author": {
+    "name": "Calvin Hia",
+    "url": "https://www.youtube.com/@calvinhia_ai"
+  },
+  "types": "./types/index.d.ts",
+  "userConfig": {
+    "folder": {
+      "type": "string",
+      "description": "Your Trend Radar folder (the one with settings.json). Leave empty when you open that folder itself in Claude Code.",
+      "default": "",
+      "title": "Trend Radar folder"
+    }
+  },
+  "homepage": "https://github.com/mrdainami/trend-radar-mod",
+  "repository": "https://github.com/mrdainami/trend-radar-mod",
+  "license": "Apache-2.0"
+}

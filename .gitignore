@@ -1,0 +1,12 @@
+# A user's own data stays on their Mac
+ideas/*
+!ideas/.keep
+references/*
+!references/.keep
+!references/README.md
+reports/
+.cache/
+# Engine-written files and local junk
+mod/.claude-plugin/types/
+node_modules/
+.DS_Store
