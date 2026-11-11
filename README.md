@@ -2,6 +2,20 @@
 
 # Trend Radar
 
+## Added in this fork: Jev + Treg skills for ecom and ads
+
+This fork adds two skills under `mod/skills/`:
+
+| Skill | What it does |
+|---|---|
+| [`jev-treg-ecom-research`](mod/skills/jev-treg-ecom-research/SKILL.md) | Pull TikTok trending/product videos, search suggestions and Amazon search volume through treg, label every row cheaply with TypeSafe Jev (System One), rank by engagement and TikTok Shop signals. |
+| [`jev-treg-ads-intel`](mod/skills/jev-treg-ads-intel/SKILL.md) | Read-only competitor ad research from the Meta and TikTok ad libraries through treg, classified by Jev (hook, format, offer, relevance), ending in a creative brief for a human. Never touches ad accounts or spend. |
+
+Pattern: treg fetches, Jev judges, code ranks, the expensive agent only writes the brief.
+
+Forked from [mrdainami/trend-radar-mod](https://github.com/mrdainami/trend-radar-mod) (Apache-2.0). Original work by Calvin Hia.
+
+
 What to make next on YouTube, with proof. And the thumbnail.
 
 Trend Radar watches your competitors, finds their videos that broke out, reads what just launched on X, and ranks 5 video ideas for you. Press one button more and it drafts a thumbnail with you in it. It runs inside Claude Code. The data comes through [treg](https://treg.to/?ref=cal-uhf7b): about 1 cent a run, about 1 cent a thumbnail.
