@@ -13,7 +13,6 @@ This fork adds two skills under `mod/skills/`:
 
 Pattern: treg fetches, Jev judges, code ranks, the expensive agent only writes the brief.
 
-Forked from [mrdainami/trend-radar-mod](https://github.com/mrdainami/trend-radar-mod) (Apache-2.0). Original work by Calvin Hia.
 
 
 What to make next on YouTube, with proof. And the thumbnail.
