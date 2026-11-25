@@ -1,0 +1,6 @@
+{
+  "holiday_gift": "christmas|xmas|halloween|thanksgiving|santa|holiday|ugly sweater|black friday|\\bgifts?\\b|navidad|valentine",
+  "custom_portrait": "custom|personali[sz]ed|pet portrait|your (dog|pet)|photo",
+  "humor_sarcasm": "funny|sarcas|humor|\\blol\\b|meme|joke|hilarious",
+  "shop_signal": "tiktokshop|tiktok shop|link in bio|shop now|tiktokmademebuyit|% ?off|sale\\b|\\$\\d"
+}

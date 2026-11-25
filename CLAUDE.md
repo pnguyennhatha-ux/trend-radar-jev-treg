@@ -26,3 +26,9 @@ If treg is not connected yet, point them to [Sign up for treg](https://treg.to/?
 - **Thumbnails:** the person presses 🖼 Thumbnail on an open idea card. The mod makes the idea folder, downloads the winners into `inspo/`, then asks you in chat to write the brief, following `mod/THUMBNAIL.md` (look at the pictures first). The brief lives in chat and in `brief.md`; they ask for changes here, and when they say "generate" you call the `mcp__trend-radar__thumbnail` tool with the folder name. The panel shows only the pictures, with 🎨 Again and ✍️ Change. Photos of them go in `references/`; if they name a photo in chat, copy it there. `thumbQuality` and `thumbStyle` in settings.json tune it.
 - **If a run fails with "auto mode blocks mods"**, the fix is to switch the mode picker out of Auto.
 - Keep answers short and plain; the person is busy.
+
+## Fork additions (this repository)
+
+`mod/skills/` also has Jev + Treg ecom/ads skills, thirteen vendored ScrapeCreators social-research skills (MIT; see `mod/skills/NOTICE-SCRAPECREATORS`), and `pod-niche-trend-flow` for POD printed t-shirt/hoodie research on US marketplaces. Details and env vars are in README.md.
+
+Never print, log, or write `SCRAPECREATORS_API_KEY`, `TYPESAFE_API_KEY`, or Treg credentials. The working ScrapeCreators balance path is `/v1/account/credit-balance`.

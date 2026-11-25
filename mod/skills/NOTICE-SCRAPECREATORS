@@ -1,0 +1,34 @@
+NOTICE — ScrapeCreators skills vendored in this folder
+=======================================================
+
+The following skill directories were copied from
+https://github.com/ScrapeCreators/social-media-research-skills
+(commit 64ba7b4dea71e130d2712ffb6c1c1024b3b7c4b2, MIT License).
+Copyright (c) 2026 ScrapeCreators.
+
+  ad-library-teardown
+  audience-research
+  comment-mining
+  competitor-social-research
+  content-repurposing
+  creator-profile-teardown
+  influencer-prospecting
+  outlier-post-finder
+  product-demand-research
+  scrapecreators-api
+  social-listening-brief
+  transcript-intelligence
+  trend-discovery
+
+Each of those directories includes a copy of the MIT license
+(`LICENSE`) as required by that license. A combined copy is also in
+`LICENSE-MIT-SCRAPECREATORS` next to this file.
+
+Local change relative to upstream: in `scrapecreators-api/SKILL.md`
+the credit-balance path is `/v1/account/credit-balance` instead of
+`/v1/credit/balance` (the path in the upstream docs returned 404
+when tested on 25 Nov 2026).
+
+`jev-treg-ecom-research`, `jev-treg-ads-intel`, and
+`pod-niche-trend-flow` (including its scripts) are original to this
+fork and follow the repository's Apache-2.0 license.
